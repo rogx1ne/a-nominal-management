@@ -4,7 +4,7 @@ This project is made to run in turboc environment, It may not run on any other e
 
 To run this project copy this whole directory to the bin sub-folder of your turboc directory.
 
-Now open the turboc -> Open the Project tab then select this folder which is "Project2" and inside that open "PRJ2.PRJ" in that ->
+Now open the turboc -> Open the Project tab then select this folder and inside that open "PRJ2.PRJ" in that ->
 
 Then the run the Project
 
