@@ -1,0 +1,12 @@
+
+Course Code	: 4007 
+Course Name	: BBA 
+Course Detail	: BACHELOR IN BUSINESS ADMINISTRATION 
+Duration	: 3 years
+Fee		: 180000.00
+
+Course Code	: 4008 
+Course Name	: BCA 
+Course Detail	: BACHELOR IN COMPUTER APPLICATION 
+Duration	: 3 years
+Fee		: 200000.00

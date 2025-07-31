@@ -1,0 +1,73 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Roll		: 25004 
+Course		: BBA 
+Name		: Adi Aditya 
+Course Code	: 4007 
+Course Detail	: BACHELOR IN BUSINESS ADMINISTRATION  
+Duration	: 3 years 
+Adm.Year	: 2025 
+Fee		: 180000.00
+
+Roll		: 25005 
+Course		: BCA 
+Name		: Saurabh 
+Course Code	: 4008 
+Course Detail	: BACHELOR IN COMPUTER APPLICATION  
+Duration	: 3 years 
+Adm.Year	: 2025 
+Fee		: 200000.00
+
+Roll		: 25005 
+Course		: BBA 
+Name		: Ankit 
+Course Code	: 4007 
+Course Detail	: BACHELOR IN BUSINESS ADMINISTRATION  
+Duration	: 3 years 
+Adm.Year	: 2025 
+Fee		: 180000.00
+
+Roll		: 25006 
+Course		: BCA 
+Name		: Suman 
+Course Code	: 4008 
+Course Detail	: BACHELOR IN COMPUTER APPLICATION  
+Duration	: 3 years 
+Adm.Year	: 2025 
+Fee		: 200000.00
+
+Roll		: 25006 
+Course		: BBA 
+Name		: Aditya 
+Course Code	: 4007 
+Course Detail	: BACHELOR IN BUSINESS ADMINISTRATION  
+Duration	: 3 years 
+Adm.Year	: 2025 
+Fee		: 180000.00
+
+Roll		: 25007 
+Course		: BCA 
+Name		: Abhishek 
+Course Code	: 4008 
+Course Detail	: BACHELOR IN COMPUTER APPLICATION  
+Duration	: 3 years 
+Adm.Year	: 2025 
+Fee		: 200000.00
